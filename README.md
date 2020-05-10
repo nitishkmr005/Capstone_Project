@@ -15,7 +15,9 @@ Important Links -
 
 Sample Dataset Description - 
 
-There are 16 classes (15 diseases, and one for "No findings") in the full dataset, but since this is drastically reduced version of the full dataset, some of the classes are sparse with the labeled as "No findings"
+- sample.zip: Contains 5,606 images with size 1024 x 1024
+
+- There are 16 classes (15 diseases, and one for "No findings") in the full dataset, but since this is drastically reduced version of the full dataset, some of the classes are sparse with the labeled as "No findings"
 
 1) Hernia - 13 images
 2) Pneumonia - 62 images
@@ -33,3 +35,17 @@ There are 16 classes (15 diseases, and one for "No findings") in the full datase
 14) Infiltration - 967 images
 15) Covid-19 - "Yet to add"
 16) No Finding - 3044 images
+
+- sample_labels.csv: Class labels and patient data for the entire dataset
+
+1) Image Index: File name
+2) Finding Labels: Disease type (Class label)
+3) Follow-up #
+4) Patient ID
+5) Patient Age
+6) Patient Gender
+7) View Position: X-ray orientation
+8) OriginalImageWidth
+9) OriginalImageHeight
+10) OriginalImagePixelSpacing_x
+11) OriginalImagePixelSpacing_y
