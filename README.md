@@ -12,6 +12,8 @@ Important Links -
 -  https://github.com/mlmed/dl-web-xray
 4. Intelligence-Based Medicine
 -  https://www.journals.elsevier.com/intelligence-based-medicine/
+5. COVID-19 dataset 
+-  https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images
 
 Sample Dataset Description - 
 
