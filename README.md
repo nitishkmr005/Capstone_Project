@@ -31,5 +31,5 @@ There are 16 classes (15 diseases, and one for "No findings") in the full datase
 12) Atelectasis - 508 images
 13) Effusion - 644 images
 14) Infiltration - 967 images
-15) Covid-19 - "Yet add"
+15) Covid-19 - "Yet to add"
 16) No Finding - 3044 images
