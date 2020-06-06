@@ -17,21 +17,7 @@ Important Links -
 
 Full Dataset Description - 
 
-Atelectasis           11559  
-Cardiomegaly           2776  
-Consolidation          4667  
-Edema                  2303  
-Effusion              13317  
-Emphysema              2516  
-Fibrosis               1686  
-Hernia                  227  
-Infiltration          19894  
-Mass                   5782  
-No Finding            60361  
-Nodule                 6331  
-Pleural_Thickening     3385  
-Pneumonia              1431  
-Pneumothorax           5302  
+![image](https://user-images.githubusercontent.com/55267125/83952210-d86d9180-a854-11ea-8087-d33d1a09195a.png)  
 
 Sample Dataset Description - 
 
