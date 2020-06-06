@@ -15,6 +15,24 @@ Important Links -
 5. COVID-19 dataset 
 -  https://github.com/ieee8023/covid-chestxray-dataset/tree/master/images
 
+Full Dataset Description - 
+
+Atelectasis           11559  
+Cardiomegaly           2776  
+Consolidation          4667  
+Edema                  2303  
+Effusion              13317  
+Emphysema              2516  
+Fibrosis               1686  
+Hernia                  227  
+Infiltration          19894  
+Mass                   5782  
+No Finding            60361  
+Nodule                 6331  
+Pleural_Thickening     3385  
+Pneumonia              1431  
+Pneumothorax           5302  
+
 Sample Dataset Description - 
 
 - sample.zip: Contains 5,606 images with size 1024 x 1024
